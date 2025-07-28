@@ -12,8 +12,10 @@ Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Rube
 
 ## 📝 Abstract
 
-**Active MINT (aMINT)** is a novel method for detecting whether specific data was used during the training of a neural network. Our approach introduces a multi-task training strategy where a secondary model (the MINT Model) is trained alongside the main model to identify training samples ![aMINT architecture](images/Block_Diagram.svg). By leveraging intermediate activation maps, aMINT learns to distinguish between seen and unseen data. We evaluate our method across five public datasets and multiple architectures, achieving over **80% accuracy**, significantly surpassing previous methods in Membership Inference. This enhances transparency and strengthens privacy and copyright safeguards in AI.
+**Active MINT (aMINT)** is a novel method for detecting whether specific data was used during the training of a neural network. Our approach introduces a multi-task training strategy where a secondary model (the MINT Model) is trained alongside the main model to identify training samples. By leveraging intermediate activation maps, aMINT learns to distinguish between seen and unseen data. We evaluate our method across five public datasets and multiple architectures, achieving over **80% accuracy**, significantly surpassing previous methods in Membership Inference. This enhances transparency and strengthens privacy and copyright safeguards in AI.
 
+
+![aMINT architecture](images/Block_Diagram.svg)
 ---
 
 ## 🔗 Paper Link
