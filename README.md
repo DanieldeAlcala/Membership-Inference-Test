@@ -8,7 +8,7 @@ This repository provides a unified collection of research works focused on **Mem
 
 The repository currently includes three complementary works, each exploring MINT from a different perspective:
 
-### [MINT](Membership Inference Test (MINT)/)
+### [MINT](Membership%20Inference%20Test%20%28MINT%29/)
 **"Membership Inference Test (MINT)"**  
 The original MINT approach analyzes the activation patterns of AI models to determine training membership. It is validated on face recognition systems using over 22M images and achieves up to **90% accuracy**.
 
