@@ -2,7 +2,7 @@
 
 This repository provides a unified collection of research works focused on **Membership Inference Testing (MINT)** — a family of techniques aimed at detecting whether specific data samples were used to train AI models. These methods serve as tools for auditing, improving transparency, and assessing privacy risks in machine learning systems.
 
-This research is in line with other current research efforts towards a more controlled and easily auditable data-driven AI based on machine learning that can be seen with different names: explainable AI [link](https://www.sciencedirect.com/science/article/pii/S1566253519308103), machine behavior [link](https://www.nature.com/articles/s41586-019-1138-y), AI forensics [link](https://research.ibm.com/blog/AI-forensics-attribution) and AI safety [link](https://arxiv.org/abs/2501.17805).
+This research is in line with other current research efforts towards a more controlled and easily auditable data-driven AI based on machine learning that can be seen with different names: [explainable AI](https://www.sciencedirect.com/science/article/pii/S1566253519308103), [machine behavior](https://www.nature.com/articles/s41586-019-1138-y), [AI forensics](https://research.ibm.com/blog/AI-forensics-attribution) and [AI safety](https://arxiv.org/abs/2501.17805).
 
 ---
 
