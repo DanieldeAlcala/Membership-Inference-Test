@@ -2,6 +2,8 @@
 
 This repository provides a unified collection of research works focused on **Membership Inference Testing (MINT)** — a family of techniques aimed at detecting whether specific data samples were used to train AI models. These methods serve as tools for auditing, improving transparency, and assessing privacy risks in machine learning systems.
 
+This research is in line with other current research efforts towards a more controlled and easily auditable data-driven AI based on machine learning that can be seen with different names: explainable AI [link](https://www.sciencedirect.com/science/article/pii/S1566253519308103), machine behavior [link](https://www.nature.com/articles/s41586-019-1138-y), AI forensics [link](https://research.ibm.com/blog/AI-forensics-attribution) and AI safety [link](https://arxiv.org/abs/2501.17805).
+
 ---
 
 ## 📚 Projects Included
@@ -32,6 +34,8 @@ Please refer to the individual subfolders for full code, paper links, and citati
 
 For questions or collaborations, contact: **daniel.dealcala@uam.es**
 
+## Acknowledgement
 
+This work has been supported by projects BBforTAI (PID2021-127641OB-I00 MICINN/FEDER), HumanCAIC (TED2021-131787B-I00 MICINN), M2RAI (PID2024-160053OB-I00 MICIU/FEDER) and Cátedra ENIA UAM-VERIDAS (NextGenerationEU PRTR TSI-100927-2023-2). Work conducted in the ELLIS Unit Madrid. D. DeAlcala is supported by a FPU Fellowship (FPU21/05785).
 
 
