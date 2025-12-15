@@ -13,6 +13,7 @@ Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Rube
 **"MINT-Demo: Membership Inference Test Demonstrator"**
 
 Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Ruben Tolosana and Ruben Vera-Rodriguez
+
 📅 Date: Feb 2025
 🧠 Conference/Journal: CVPR Demo Track and AAAIw.
 
