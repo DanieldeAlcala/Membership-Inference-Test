@@ -10,12 +10,12 @@ Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Rube
 📅 Date: Feb 2024
 🧠 Conference/Journal: IEEE Access
 
-"MINT-Demo: Membership Inference Test Demonstrator"
+**"MINT-Demo: Membership Inference Test Demonstrator"**
 
 Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Ruben Tolosana and Ruben Vera-Rodriguez
 📅 Date: Feb 2025
 🧠 Conference/Journal: CVPR Demo Track and AAAIw.
----
+
 
 ## 📝 Abstract
 
