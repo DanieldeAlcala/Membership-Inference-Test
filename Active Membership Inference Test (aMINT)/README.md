@@ -62,7 +62,14 @@ For the ViT architecture, due to its significant differences, it was not possibl
 
 If this code or paper has been useful to you, please cite our work:
 
-TBD.
+@InProceedings{DeAlcala_2025_ICCV,
+    author    = {DeAlcala, Daniel and Morales, Aythami and Fierrez, Julian and Mancera, Gonzalo and Tolosana, Ruben and Ortega-Garcia, Javier},
+    title     = {Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning.},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2025},
+    pages     = {647-656}
+}
 
 ---
 

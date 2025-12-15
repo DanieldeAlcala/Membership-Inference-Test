@@ -8,9 +8,10 @@ Official repository of papers:
 **"Is my Data in your AI Model? Membership Inference Test with Application to Face Images"**  
 Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Ruben Tolosana, and Javier Ortega-Garcia  
 📅 Date: Feb 2024
-🧠 Conference/Journal: Under Review
+🧠 Conference/Journal: IEEE Access
 
-**"MINT-Demo: Membership Inference Test Demonstrator"**
+"MINT-Demo: Membership Inference Test Demonstrator"
+
 Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Ruben Tolosana and Ruben Vera-Rodriguez
 📅 Date: Feb 2025
 🧠 Conference/Journal: CVPR Demo Track and AAAIw.
@@ -29,12 +30,6 @@ This repository presents **Membership Inference Test (MINT)**, a new method for 
 You can read the full paper in **[arXiv here](https://arxiv.org/abs/2402.09225)**.
 
 ---
-
-## 🚀 How to Run the Code
-
-TBD.
-
-**The code will be released upon the article's acceptance.**
 
 ## 📊 Main Results
 
@@ -59,7 +54,7 @@ If these papers have been useful to you, please cite our work:
 @article{dealcala2024my,
   title={Is my Data in your AI Model? Membership Inference Test with Application to Face Images},
   author={DeAlcala, Daniel and Morales, Aythami and Fierrez, Julian and Mancera, Gonzalo and Tolosana, Ruben and Ortega-Garcia, Javier},
-  journal={arXiv preprint arXiv:2402.09225},
+  journal={IEEE Access},
   year={2024}
 }
 
