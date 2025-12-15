@@ -1,6 +1,6 @@
 # 📄 Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning
 
-[![arXiv](https://img.shields.io/badge/arXiv-PAPER_ID-B31B1B.svg)](https://arxiv.org/abs/PAPER_ID)
+[![arXiv](https://img.shields.io/badge/arXiv-PAPER_ID-B31B1B.svg)](https://openaccess.thecvf.com/content/ICCV2025/html/DeAlcala_Active_Membership_Inference_Test_aMINT_Enhancing_Model_Auditability_with_Multi-Task_ICCV_2025_paper.html)
 
 Official repository of the paper:  
 **"Active Membership Inference Test (aMINT): Enhancing Model Auditability with Multi-Task Learning"**  
@@ -20,7 +20,7 @@ Authors: Daniel DeAlcala, Aythami Morales, Julian Fierrez, Gonzalo Mancera, Rube
 
 ## 🔗 Paper Link
 
-You can read the full paper in **[arXiv here](https://arxiv.org/abs/PAPER_ID)**.
+You can read the full paper in **[arXiv here](https://openaccess.thecvf.com/content/ICCV2025/html/DeAlcala_Active_Membership_Inference_Test_aMINT_Enhancing_Model_Auditability_with_Multi-Task_ICCV_2025_paper.html)**.
 
 ---
 
